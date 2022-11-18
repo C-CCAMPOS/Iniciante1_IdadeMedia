@@ -2,7 +2,7 @@
 int contador = 0;
 int media = 0;
 
-Console.WriteLine("***Projeto 1 - GitHub***\n\n\n");
+Console.WriteLine("***Projeto 1 - IdadeMedia GitHub***\n\n\n");
 Console.WriteLine("CALCULO DA IDADE MÉDIA DOS ALUNOS");
 
 Console.Write("\n\nDigite a quantidade de alunos que deseja calcular a média: ");
